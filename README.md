@@ -1,4 +1,4 @@
-# 2D Snake Game and Bouncing Ball game using Python
+# 2D Snake Game and Bouncing Ball game using Pygame
 
 ### How to install the project
 To use this project you don't need to install it
